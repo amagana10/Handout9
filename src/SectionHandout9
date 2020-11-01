@@ -1,0 +1,5 @@
+1. Primitive vs. Objects
+
+the first is checking if the tring Object has the same reference as the String Q
+while the second block of code compare two primative values and checks that the input is just one character long. 
+the second code snippet is a deep somparison while the first is a shallow comparison.
